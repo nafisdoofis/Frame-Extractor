@@ -1,7 +1,4 @@
 # Frame-Extractor
-Here's a clean description you can use as a README section or as a module docstring for this script:
-
----
 
 ## Frame Extractor for DIC Video Analysis
 
